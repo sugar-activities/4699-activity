@@ -1,0 +1,338 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-20 16:02-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Spirituality for Kids"
+msgstr ""
+
+#: videos.py:7
+msgid "Start Here"
+msgstr ""
+
+#: videos.py:8 lessons.py:7
+msgid "Origin Story"
+msgstr ""
+
+#: videos.py:11
+msgid "Life is Like a Game"
+msgstr ""
+
+#: videos.py:12
+msgid ""
+"Rule #1: There are rules to the Game of Life\n"
+"The Game of Life is made up of the same basic components as other games: "
+"players, goals, challenges and rules.\n"
+"To play the Game of Life well, we first need to identify the components and "
+"follow the rules.\n"
+"We are all playing the same Game of Life together, and therefore, the same "
+"rules apply to everyone."
+msgstr ""
+
+#: videos.py:18
+msgid "Fullfillment"
+msgstr ""
+
+#: videos.py:19
+msgid ""
+"Rule #2: Spiritual Fulfillment is what we really want\n"
+"Physical things are temporary and can be perceived with our five senses.\n"
+"Spiritual fulfillment is long lasting and intangible.\n"
+"Spiritual fulfillment is our main goal in life.\n"
+"Our physical goals may change throughout our lives, while our desire for "
+"spiritual fulfillment remains constant.\n"
+"Winning the Game of Life equals being happy and spiritually fulfilled."
+msgstr ""
+
+#: videos.py:27
+msgid "The Light"
+msgstr ""
+
+#: videos.py:28 videos.py:35
+msgid ""
+"The Light is the Source of everything that exists in this world.\n"
+"The Light's nature is to always share.\n"
+"The Light is the Source of all spiritual fulfillment.\n"
+"The Light is always available to us."
+msgstr ""
+
+#: videos.py:34
+msgid "The Unseen Power"
+msgstr ""
+
+#: videos.py:41
+msgid "I am a Key Player"
+msgstr ""
+
+#: videos.py:42 videos.py:49
+msgid ""
+"We each have a spark of the Light within us.\n"
+"Our essence is goodness.\n"
+"Inside each one of us, there is the tremendous power of the Light.\n"
+"Each one of us is special and unique."
+msgstr ""
+
+#: videos.py:48
+msgid "The One Thing"
+msgstr ""
+
+#: lessons.py:12
+msgid "Lesson 1"
+msgstr ""
+
+#: lessons.py:16
+msgid "Rule #1: "
+msgstr ""
+
+#: lessons.py:18
+msgid "There are rules to the Game of Life."
+msgstr ""
+
+#: lessons.py:21
+msgid "Pickup Points: "
+msgstr ""
+
+#: lessons.py:24
+msgid ""
+"   • The Game of Life is made up of the same basic components as other "
+"games: players, goals, challenges and rules."
+msgstr ""
+
+#: lessons.py:26
+msgid ""
+"   • To play the Game of Life well, we first need to identify the components "
+"and follow the rules."
+msgstr ""
+
+#: lessons.py:28
+msgid ""
+"   • We are all playing the same Game of Life together, and therefore, the "
+"same rules apply to everyone."
+msgstr ""
+
+#: lessons.py:31 lessons.py:70 lessons.py:108 lessons.py:138
+msgid "Words to Know:"
+msgstr ""
+
+#: lessons.py:34
+msgid ""
+"Rules:  Guidelines for our behavior that keep us on the winning track of the "
+"Game of Life"
+msgstr ""
+
+#: lessons.py:37 lessons.py:80 lessons.py:114 lessons.py:144 lessons.py:173
+#: lessons.py:204
+msgid "Journal"
+msgstr ""
+
+#: lessons.py:40
+msgid ""
+"   • What are some of the rules you are aware of in your life, and how are "
+"those rules helpful? Think about rules in your home, school, your "
+"neighborhood and different places you visit."
+msgstr ""
+
+#: lessons.py:42
+msgid ""
+"   • Describe the kind of world we would live in if there weren’t any rules. "
+"Why?"
+msgstr ""
+
+#: lessons.py:44
+msgid "   • What rules are the hardest for you to follow? Why?"
+msgstr ""
+
+#: lessons.py:47
+msgid "Lesson 2"
+msgstr ""
+
+#: lessons.py:51
+msgid "Rule #2: "
+msgstr ""
+
+#: lessons.py:53
+msgid "Spiritual Fulfillment is what we really want."
+msgstr ""
+
+#: lessons.py:56 lessons.py:96 lessons.py:126 lessons.py:161 lessons.py:192
+msgid "Pickup Points:"
+msgstr ""
+
+#: lessons.py:59
+msgid ""
+"   • Physical things are temporary and can be perceived with our five senses."
+msgstr ""
+
+#: lessons.py:61
+msgid "   • Spiritual fulfillment is long lasting and intangible."
+msgstr ""
+
+#: lessons.py:63
+msgid "   • Spiritual fulfillment is our main goal in life."
+msgstr ""
+
+#: lessons.py:65
+msgid ""
+"   • Our physical goals may change throughout our lives, while our desire "
+"for spiritual fulfillment remains constant."
+msgstr ""
+
+#: lessons.py:67
+msgid ""
+"   • Winning the Game of Life equals being happy and spiritually fulfilled."
+msgstr ""
+
+#: lessons.py:73
+msgid ""
+"Spiritual Fulfillment: All the feelings that we really want (happiness, "
+"love, excitement etc.) that cannot be measured, weighed, counted or "
+"perceived by our five senses"
+msgstr ""
+
+#: lessons.py:75
+msgid ""
+"Physical Things: Things that can be measured, weighed, counted or perceived "
+"by our five senses; things that do not last forever."
+msgstr ""
+
+#: lessons.py:77
+msgid "Goals: A desired result or achievement."
+msgstr ""
+
+#: lessons.py:83
+msgid ""
+"   • Fill out the chart on page 16 of your Workbook with the physical things "
+"you want and the spiritual fulfillment you receive from it."
+msgstr ""
+
+#: lessons.py:85
+msgid "   • Look at the chart and answer the following questions:"
+msgstr ""
+
+#: lessons.py:87
+msgid ""
+"      ‣ Do you still want the same physical things today as you did a week "
+"ago, a month ago, a year ago or when you were a baby? Why?"
+msgstr ""
+
+#: lessons.py:89
+msgid ""
+"      ‣ Do you still want the same spiritual fulfillment today as you did a "
+"week ago, a month ago, a year ago or when you were a baby? Why?"
+msgstr ""
+
+#: lessons.py:92 lessons.py:122
+msgid "Lesson 3"
+msgstr ""
+
+#: lessons.py:99 lessons.py:129
+msgid "   • The Light is the Source of everything that exists in this world."
+msgstr ""
+
+#: lessons.py:101 lessons.py:131
+msgid "   • The Light's nature is to always share."
+msgstr ""
+
+#: lessons.py:103 lessons.py:133
+msgid "   • The Light is the Source of all spiritual fulfillment."
+msgstr ""
+
+#: lessons.py:105 lessons.py:135
+msgid "   • The Light is always available to us."
+msgstr ""
+
+#: lessons.py:111 lessons.py:141
+msgid ""
+"Light: The Source of everything that exists in this world; a force of "
+"constant sharing that provides complete and unlimited spiritual fulfillment "
+"and happiness."
+msgstr ""
+
+#: lessons.py:117 lessons.py:147
+msgid ""
+"   • Describe a time when you felt the Light in your life – moments you felt "
+"happy, free or excited."
+msgstr ""
+
+#: lessons.py:119 lessons.py:149
+msgid ""
+"   • Describe a time when you did not feel the Light in your life – moments "
+"you felt sad, lonely or angry."
+msgstr ""
+
+#: lessons.py:152 lessons.py:183
+msgid "Lesson 4"
+msgstr ""
+
+#: lessons.py:156 lessons.py:187
+msgid "Rule #3: "
+msgstr ""
+
+#: lessons.py:158 lessons.py:189
+msgid "We all have a spark of Light inside of us."
+msgstr ""
+
+#: lessons.py:164 lessons.py:195
+msgid "   • We each have a spark of the Light within us."
+msgstr ""
+
+#: lessons.py:166 lessons.py:197
+msgid "   • Our essence is goodness."
+msgstr ""
+
+#: lessons.py:168 lessons.py:199
+msgid "   • Inside each one of us, there is the tremendous power of the Light."
+msgstr ""
+
+#: lessons.py:170 lessons.py:201
+msgid "   • Each one of us is special and unique."
+msgstr ""
+
+#: lessons.py:176 lessons.py:207
+msgid ""
+"   • Think about a time when you were expressing a Light-quality. What "
+"happened? How did you feel?"
+msgstr ""
+
+#: lessons.py:178 lessons.py:209
+msgid ""
+"   • Think about a time when you weren’t expressing your Light-qualities. "
+"What happened? How did you feel?"
+msgstr ""
+
+#: lessons.py:180 lessons.py:211
+msgid ""
+"   • Do you always remember that everyone has Light inside of them? Why or "
+"why not?"
+msgstr ""
+
+#: activity.py:279
+msgid "Play video"
+msgstr ""
+
+#: activity.py:286
+msgid "Pause video"
+msgstr ""
+
+#: activity.py:293
+msgid "Stop video"
+msgstr ""
+
+#: activity.py:301
+msgid "View lesson"
+msgstr ""
